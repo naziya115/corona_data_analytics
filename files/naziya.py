@@ -1,1 +1,1 @@
-print('added new commit')
+print('added')
