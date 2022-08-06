@@ -9,3 +9,4 @@ folium.Marker(
 ).add_to(marker_map)
 
 marker_map.save('mit_map.html')
+print('hi')
